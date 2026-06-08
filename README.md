@@ -1,5 +1,5 @@
 ### Hi Folks, I'm Abraham 👋
-![](https://komarev.com/ghpvc/?username=isekaiweb&color=blue&style=flat-square&label=visitors)
+![](https://komarev.com/ghpvc/?username=brambulyan&color=blue&style=flat-square&label=visitors)
 ---
 
 ### About me
@@ -29,8 +29,8 @@ Open to freelance collaborations and consulting opportunities in Android develop
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-isekaiweb.vercel.app/api/spotify-playing" alt="isekai Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely)
+[<img src="https://spotify-now-playing-brambulyan.vercel.app/api/spotify-playing" alt="isekai Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely)
 
 
-[![Abraham's GitHub stats](https://github-readme-stats.isekaiweb.vercel.app/api?username=isekaiweb&count_private=true&hide_border=true&show_icons=true&hide=html,css)](https://github.com/isekaiweb/github-readme-stats)
-[![Top Langs](https://github-readme-stats.isekaiweb.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide_border=true&show_icons=true&hide=html,css,shell)](https://github.com/isekaiweb/github-readme-stats)
+[![Abraham's GitHub stats](https://github-readme-stats.brambulyan.vercel.app/api?username=brambulyan&count_private=true&hide_border=true&show_icons=true&hide=html,css)](https://github.com/brambulyan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.brambulyan.vercel.app/api/top-langs/?username=brambulyan&layout=compact&count_private=true&hide_border=true&show_icons=true&hide=html,css,shell)](https://github.com/brambulyan/github-readme-stats)
